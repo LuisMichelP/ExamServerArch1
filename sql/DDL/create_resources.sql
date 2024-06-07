@@ -1,0 +1,7 @@
+-- Active: 1717138933980@@127.0.0.1@5432@dw_dev
+CREATE DATABASE dw_dev;
+
+CREATE SCHEMA bronze;
+CREATE SCHEMA silver;
+CREATE SCHEMA gold;
+
